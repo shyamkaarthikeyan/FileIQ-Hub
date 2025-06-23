@@ -1,4 +1,4 @@
-# Gemini Document Assistant
+# FileIQ
 
 An intelligent document assistant web app using Streamlit and Google's Gemini API (via google-generativeai). Upload a PDF or TXT, get a summary, ask questions, or challenge yourself with comprehension questions.
 
